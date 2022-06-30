@@ -26,6 +26,8 @@ Data can include source and high-level description (e.g. # obs)
 #### Visual 1 Title
 ![sample image](project1_sample_image.png)
 
+![Screen Shot 2022-06-30 at 2 41 30 PM](https://user-images.githubusercontent.com/67288119/176753994-687bd194-74df-4ffe-ac8e-c0466f1be9fc.png)
+
 > Sentence about visualization.
 
 #### Visual 2 Title
