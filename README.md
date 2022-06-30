@@ -4,7 +4,7 @@ Predicting sales of various items
 ## Subtitle describing the analysis 
 
 **Author**: 
-https://github.com/RodYazdan/sales_predictions/blob/master/Images/Screen%20Shot%202022-06-30%20at%202.41.30%20PM.png
+![sample image](https://github.com/RodYazdan/sales_predictions/blob/master/Images/Screen%20Shot%202022-06-30%20at%202.41.30%20PM.png)
 ### Business problem:
 
 Here is where you state the business problem you were trying to solve
