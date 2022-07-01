@@ -43,7 +43,7 @@ We fixed inconsistencies in data to make all the tages the same.
 ## Results
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
+![sample image]([project1_sample_image.png](https://github.com/RodYazdan/sales_predictions/blob/master/Images/Histogram%20of%20Numner%20of%20items%20sold.png))
 
 ![Histogram of Number of Items Sold vs. Type of Of item Sold] (https://github.com/RodYazdan/sales_predictions/blob/master/Images/Histogram%20of%20Numner%20of%20items%20sold.png)
 #
