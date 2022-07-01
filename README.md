@@ -53,16 +53,13 @@ We fixed inconsistencies in data to make all the tages the same.
 ![Correlations](https://github.com/RodYazdan/sales_predictions/blob/master/Images/Correlations.png)
 
 
-#### Histogram of Number of Items Sold vs. Type of Of item Sold
-![Screen Shot 2022-06-30 at 2 41 30 PM](https://user-images.githubusercontent.com/67288119/176753994-687bd194-74df-4ffe-ac8e-c0466f1be9fc.png)
-
-> Sentence about visualization.
+> The pictures above show the distribution of the data and the correlation between the differnt data columns
 
 #### Visual 2 Title
 
 ## Model
 
-Describe your final model
+We decided to go with a Random forrest model 
 
 Report the most important metrics
 
@@ -81,4 +78,4 @@ More of your own text here
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact Rod at email : ibluetouch@gmail.com
