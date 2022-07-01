@@ -46,6 +46,13 @@ We fixed inconsistencies in data to make all the tages the same.
 
 ![Histogram](https://github.com/RodYazdan/sales_predictions/blob/master/Images/Histogram%20of%20Numner%20of%20items%20sold.png))
 
+
+
+
+### Heatmap of the correlation between features.
+![Correlations](https://github.com/RodYazdan/sales_predictions/blob/master/Images/Correlations.png)
+
+
 #### Histogram of Number of Items Sold vs. Type of Of item Sold
 ![Screen Shot 2022-06-30 at 2 41 30 PM](https://user-images.githubusercontent.com/67288119/176753994-687bd194-74df-4ffe-ac8e-c0466f1be9fc.png)
 
