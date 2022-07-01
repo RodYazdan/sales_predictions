@@ -7,17 +7,19 @@ Predicting sales of various items
 ![sample image](/Images/Screen%20Shot%202022-06-30%20at%202.41.30%20PM.png)
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+Here is where you state the business problem you were trying to solve:
+We are trying to identify relationships between the dales data for difffernt items sold in differnt sotres in this database.
+Ultimately we wan to predict sales
 
 
 ### Data:
 Data can include source and high-level description (e.g. # obs)
-
+'/content/sales_predictions.csv'
 
 ## Methods
 - Data preparation steps with explanation and justification for choices
 - 
-
+We eliminate dulplicates and get rid of cells with Nulls
 ## Results
 
 ### Here are examples of how to embed images from your sub-folder
