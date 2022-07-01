@@ -59,8 +59,17 @@ We fixed inconsistencies in data to make all the tages the same.
 We decided to go with a Random forrest model 
 
 Report the most important metrics
+#R2 SCORES
+#Model Training R2: 0.9459499007697441
+#Model Testing R2: 0.5581937612210199
+
+#RMSC SCORES
+#Model Training RMSE: 430.90539327118023
+#Model Testing RMSE: 1127.941831980576
 
 Refer to the metrics to describe how well the model would solve the business problem
+
+The model is nto doing a great job at fitting the testing data but is doing a good job at training sata. This may indicate over fitting of data.
 
 ## Recommendations:
 
@@ -69,7 +78,7 @@ More of your own text here
 
 ## Limitations & Next Steps
 
-More of your own text here
+Further analysis is requred to tune the data 
 
 
 ### For further information
