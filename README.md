@@ -10,30 +10,27 @@ We are trying to identify relationships between the dales data for difffernt ite
 Ultimately we wan to predict sales
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
-'/content/sales_predictions.csv'
-/---------------------------------------------------
-The data information is given below :
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 8523 entries, 0 to 8522
-Data columns (total 12 columns):
- #   Column                     Non-Null Count  Dtype  
----  ------                     --------------  -----  
- 0   Item_Identifier            8523 non-null   object 
- 1   Item_Weight                7060 non-null   float64
- 2   Item_Fat_Content           8523 non-null   object 
- 3   Item_Visibility            8523 non-null   float64
- 4   Item_Type                  8523 non-null   object 
- 5   Item_MRP                   8523 non-null   float64
- 6   Outlet_Identifier          8523 non-null   object 
- 7   Outlet_Establishment_Year  8523 non-null   int64  
- 8   Outlet_Size                6113 non-null   object 
- 9   Outlet_Location_Type       8523 non-null   object 
- 10  Outlet_Type                8523 non-null   object 
- 11  Item_Outlet_Sales          8523 non-null   float64
-dtypes: float64(4), int64(1), object(7)
-memory usage: 799.2+ KB
+# Data can include source and high-level description (e.g. # obs)
+# '/content/sales_predictions.csv'
+#/---------------------------------------------------
+# The data information is given below :
 
+# RangeIndex: 8523 entries, 0 to 8522
+#Data columns (total 12 columns):
+#   Column                     Non-Null Count  Dtype  
+# ---  ------                     --------------  -----  
+# 0   Item_Identifier            8523 non-null   object 
+# 1   Item_Weight                7060 non-null   float64
+# 2   Item_Fat_Content           8523 non-null   object 
+# 3   Item_Visibility            8523 non-null   float64
+# 4   Item_Type                  8523 non-null   object 
+# 5   Item_MRP                   8523 non-null   float64
+# 6   Outlet_Identifier          8523 non-null   object 
+# 7   Outlet_Establishment_Year  8523 non-null   int64  
+# 8   Outlet_Size                6113 non-null   object 
+# 9   Outlet_Location_Type       8523 non-null   object 
+# 10  Outlet_Type                8523 non-null   object 
+# 11  Item_Outlet_Sales          8523 non-null   float64
 
 ## Methods
 - Data preparation steps:
