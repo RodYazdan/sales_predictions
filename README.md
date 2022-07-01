@@ -43,9 +43,12 @@ We fixed inconsistencies in data to make all the tages the same.
 ## Results
 
 #### Visual 1 Title
-![sample image]([project1_sample_image.png](https://github.com/RodYazdan/sales_predictions/blob/master/Images/Histogram%20of%20Numner%20of%20items%20sold.png))
+# ![sample image]([project1_sample_image.png]!
 
-![Histogram of Number of Items Sold vs. Type of Of item Sold] (https://github.com/RodYazdan/sales_predictions/blob/master/Images/Histogram%20of%20Numner%20of%20items%20sold.png)
+
+![hello](https://github.com/RodYazdan/sales_predictions/blob/master/Images/Histogram%20of%20Numner%20of%20items%20sold.png))
+
+#![Histogram of Number of Items Sold vs. Type of Of item Sold] #(https://github.com/RodYazdan/sales_predictions/blob/master/Images/Histogram%20of%20Numner%20of%20items%20sold.png)
 #
 ![Screen Shot 2022-06-30 at 2 41 30 PM](https://user-images.githubusercontent.com/67288119/176753994-687bd194-74df-4ffe-ac8e-c0466f1be9fc.png)
 
